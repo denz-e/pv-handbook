@@ -9,7 +9,7 @@ description: Everything you need to know about the Origin Stories burn-to-claim 
 
 * Origin Stories Issue 1
 
-If you want, you can burn your Issue 1 for Issue 2. The claim window is open until the release of Origin Stories Issue 3 (date TBC)
+If you want, you can burn your Issue 1 for Issue 2. The claim window is open until the release of Origin Stories Issue 3 (25 Aug 2022)
 
 **Link:** [https://punkscomic.com/origin-stories-2.html](https://punkscomic.com/origin-stories-2.html)
 {% endhint %}
