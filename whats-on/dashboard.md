@@ -24,7 +24,7 @@ _This list is intended to be a guide for you to act on, and prepare for ongoing/
 
 ### [Origin Stories: Burn to Claim](origin-stories.md)
 
-* **❗️ The burn-to-claim for Origin Stories Issue #2 is open for holders of Origin Stories #1.** If you want, you can burn your Issue #1 for Issue #2. The claim window is open until the release of Origin Stories Issue #3 (25 Aug 2022)
+* **The burn-to-claim window for Origin Stories Issue 3 is open for all holders of Origin Stories #1 or #2.** If you want, you can burn your Issue 1 or 2 for Issue 3. The claim window is open until the release of Origin Stories Issue 4 (Date TBC)
 
 
 
@@ -43,9 +43,17 @@ _This list is intended to be a guide for you to act on, and prepare for ongoing/
 {% endtab %}
 
 {% tab title="News & Announcements" %}
-### ****[**Pixel Vault Founder's DAO**](../learn/ecosystem/pvfd.md) **getting royalties**
+### ****[**Pixel Vault has released a custom marketplace**](https://twitter.com/pixelvault\_/status/1567151840608796674)
 
-* Once the legal wrapper is setup, royalties on sales of PVFD tokens will be split 50/50 between PV and the PVFD
+* **Link:** [https://market.pixelvault.com/](https://market.pixelvault.com/)
+* PV's Marketplace was created in collaboration with Rarible, so that you can view all Pixel Vault NFTs in one, organised space
+* If you're buying, it aggregates listings from Rarible and OpenSea
+* If you're selling, list on Pixel Vault's marketplace as there are no marketplace fees
+
+### ****[**Pixel Vault Founder's DAO**](../learn/ecosystem/pvfd.md) **is now receiving royalties**
+
+* Royalties on sales of PVFD tokens are now being split 50/50 between PV and the PVFD!
+* You can view the royalty amounts [here](https://etherscan.io/address/0x580a96bc816c2324bdff5eb2a7e159ae7ee63022#internaltx)
 
 
 
