@@ -5,7 +5,7 @@ description: Everything you need to know about the first Community Content Chall
 # Community Content Challenge
 
 {% hint style="warning" %}
-**The 1st Community Content Challenge is open for submissions until 1 September 2022.** Create content that helps educate and/or promote the PUNKS ecosystem and submit it to foundersdao@protonmail.com
+**The submission window for the 1st Community Content Challenge is now closed.** Voting will take place shortly.
 {% endhint %}
 
 **On this page, you'll find:**
