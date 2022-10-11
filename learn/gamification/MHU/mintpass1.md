@@ -12,7 +12,7 @@ At first glance, it seems obvious that you should test your luck for a Core. How
 * 1 free [Planet DAO token](../../ecosystem/MHU/planets.md); dependent on the planetary origin of the Generative, which is randomly assigned at mint
 * 2 free [MintPass #2](../../ecosystem/MHU/mintpass/2.md) (1 for holding the MetaHero Identity, and 1 for holding the free Planet)
 * the option to stake for [$POW](../../ecosystem/MHU/POW.md), the in-game currency of the MetaHero game. 20% of the 1 billion $POW tokens was set aside for those staking their MetaHero Identities
-* eligibility to mint [Gear Pods](../../ecosystem/MHU/gear-pods.md) and participate in raffles as part of [POWer Up Summer](../../../whats-on/complete/POWerUpSummer.md)&#x20;
+* eligibility to mint [Gear Pods](../../ecosystem/MHU/gear-pods.md) and participate in raffles as part of [POWer Up Summer](../../../whats-on/POWerUpSummer.md)&#x20;
 * it's part of the [Genesis Set](../sets.md)
 
 Just as with PUNKS Comic #1, PV forces collectors to make decisions based on their preferences and risk appetite, e.g.

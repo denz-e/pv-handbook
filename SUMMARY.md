@@ -11,9 +11,9 @@
 * [🟠 Origin Stories: Burn to Claim](whats-on/origin-stories.md)
 * [🟠 UPDAO Voting Dashboad (PRISM)](whats-on/PRISM.md)
 * [🟢 Completed Events](whats-on/complete/README.md)
-  * [🟢 Community Content Challenge](whats-on/complete/content-challenge.md)
-  * [🟢 POWer Up Summer](whats-on/complete/POWerUpSummer.md)
-  * [🟢 Elite Ape Comic: Apes Out on the Town](whats-on/complete/elite-ape-comic.md)
+  * [🟢 Community Content Challenge](whats-on/content-challenge.md)
+  * [🟢 POWer Up Summer](whats-on/POWerUpSummer.md)
+  * [🟢 Elite Ape Comic: Apes Out on the Town](whats-on/elite-ape-comic.md)
 
 ## Learn About Pixel Vault <a href="#learn" id="learn"></a>
 
