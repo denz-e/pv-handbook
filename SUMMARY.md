@@ -8,11 +8,12 @@
 ## What's On
 
 * [⭐️ Dashboard](whats-on/dashboard.md)
-* [Community Content Challenge](whats-on/content-challenge.md)
-* [Origin Stories: Burn to Claim](whats-on/origin-stories.md)
-* [POWer Up Summer](whats-on/POWerUpSummer.md)
-* [UPDAO Voting Dashboad (PRISM)](whats-on/PRISM.md)
-* [Elite Ape Comic: Apes Out on the Town](whats-on/elite-ape-comic.md)
+* [🟠 Origin Stories: Burn to Claim](whats-on/origin-stories.md)
+* [🟠 UPDAO Voting Dashboad (PRISM)](whats-on/PRISM.md)
+* [🟢 Completed Events](whats-on/complete/README.md)
+  * [🟢 Community Content Challenge](whats-on/complete/content-challenge.md)
+  * [🟢 POWer Up Summer](whats-on/complete/POWerUpSummer.md)
+  * [🟢 Elite Ape Comic: Apes Out on the Town](whats-on/complete/elite-ape-comic.md)
 
 ## Learn About Pixel Vault <a href="#learn" id="learn"></a>
 

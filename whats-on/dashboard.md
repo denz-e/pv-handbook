@@ -16,21 +16,11 @@ description: All things Pixel Vault which you may want to know, do or prepare fo
 _This list is intended to be a guide for you to act on, and prepare for ongoing/upcoming events. It's not necessarily exhaustive and is only based on details that have been confirmed by the Pixel Vault team._
 {% endhint %}
 
-### [Community Content Challenge](content-challenge.md)
-
-* **The submission window for the 1st Community Content Challenge is now closed.** Voting will take place shortly.
-
 
 
 ### [Origin Stories: Burn to Claim](origin-stories.md)
 
 * **The burn-to-claim window for Origin Stories Issue 3 is open for all holders of Origin Stories #1 or #2.** If you want, you can burn your Issue 1 or 2 for Issue 3. The claim window is open until the release of Origin Stories Issue 4 (Date TBC)
-
-
-
-### [POWer Up Summer](POWerUpSummer.md)
-
-* **POWer Up Summer** ended on 14 Sep 2022. Originally, Pixel Vault planned to allow multiple Gear Pod mints, with multiple sets of Nebula Gear Pod and MintPass 2 raffles. However, due to delays from organising the [make-up mint](dashboard.md#gear-pod-mint-1-make-up-mint), and a lack of clarity around what Gear Pods are for, POWer Up Summer ended after one set of raffles.
 
 
 
@@ -48,6 +38,8 @@ _This list is intended to be a guide for you to act on, and prepare for ongoing/
 * If you're buying, it aggregates listings from Rarible and OpenSea
 * If you're selling, list on Pixel Vault's marketplace as there are no marketplace fees
 
+
+
 ### ****[**Pixel Vault Founder's DAO**](../learn/ecosystem/pvfd.md) **is now receiving royalties**
 
 * Royalties on sales of PVFD tokens are now being split 50/50 between PV and the PVFD!
@@ -59,8 +51,6 @@ _This list is intended to be a guide for you to act on, and prepare for ongoing/
 
 * Odious originally planned to create a PFP in collaboration with PVFD
 * This project has now been paused so that Odious has focus his attention on the [MetaHero Universe](../learn/ecosystem/MHU/)
-
-
 {% endtab %}
 
 {% tab title="Coming Soon" %}
@@ -95,6 +85,8 @@ _This list is intended to be a guide for you to act on, and prepare for ongoing/
 * **Choose-your-own-adventure storytelling for Origin Stories using $PUNKS:** _"After Set 1 is complete, the plan is to integrate tools for more communal forms of storytelling leveraging the $PUNKS token in a “choose your own adventure” format."_ [(source: 10 Questions for GFunk)](https://medium.com/@pixelvault/10-questions-for-gfunk-d2a779a5971c)
 {% endtab %}
 {% endtabs %}
+
+
 
 
 

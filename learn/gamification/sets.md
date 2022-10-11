@@ -11,4 +11,4 @@ This creates a more fun and engaging collector experience, and allows set holder
 **For example:**
 
 * Bonus [MintPass #2s](../ecosystem/MHU/mintpass/2.md) were given to Genesis Set and Planet Set holders
-* For each Planet Set held, collectors be given 1 [Nebula Gear Pod](../../whats-on/POWerUpSummer.md#2-nebula-gear-pod-distribution-and-raffles)
+* For each Planet Set held, collectors be given 1 [Nebula Gear Pod](../../whats-on/complete/POWerUpSummer.md#2-nebula-gear-pod-distribution-and-raffles)

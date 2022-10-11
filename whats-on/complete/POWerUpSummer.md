@@ -2,7 +2,7 @@
 description: Everything you need to know about POWer Up Summer
 ---
 
-# POWer Up Summer
+# 🟢 POWer Up Summer
 
 {% hint style="info" %}
 **POWer Up Summer ended on 14 Sep 2022.** Originally, Pixel Vault planned to allow multiple Gear Pod mints, with multiple sets of Nebula Gear Pod and MintPass 2 raffles. However, due to delays from organising the [make-up mint](POWerUpSummer.md#gear-pod-mint-1-make-up-mint), and a lack of clarity around what Gear Pods are for, POWer Up Summer ended after one set of raffles.
@@ -17,11 +17,11 @@ description: Everything you need to know about POWer Up Summer
 
 ## Context
 
-Holders of [MetaHero Identities](../learn/ecosystem/MHU/identities.md) had the option to stake for [$POW](../learn/ecosystem/MHU/POW.md) over a 6-month period which ended on June 5, 2022. After this staking period ended, Pixel Vault launched **POWer Up Summer** to continue gamifying the experience of being a MetaHero Identity holder and to allow holders to prepare their MetaHeroes for the many games to come.
+Holders of [MetaHero Identities](../../learn/ecosystem/MHU/identities.md) had the option to stake for [$POW](../../learn/ecosystem/MHU/POW.md) over a 6-month period which ended on June 5, 2022. After this staking period ended, Pixel Vault launched **POWer Up Summer** to continue gamifying the experience of being a MetaHero Identity holder and to allow holders to prepare their MetaHeroes for the many games to come.
 
-In the context of the MetaHero Universe, POWer Up Summer is the beginning of a peace treaty between the MetaHeroes and [DOTs](../learn/ecosystem/MHU/DOTs.md), which gives MetaHeroes an opportunity to _"assemble a fleet of DOTs"_ to _"promote interplanetary co-operation, expansion and discovery"_.
+In the context of the MetaHero Universe, POWer Up Summer is the beginning of a peace treaty between the MetaHeroes and [DOTs](../../learn/ecosystem/MHU/DOTs.md), which gives MetaHeroes an opportunity to _"assemble a fleet of DOTs"_ to _"promote interplanetary co-operation, expansion and discovery"_.
 
-This leads to the DOTs distributing [**Gear Pods**](../learn/ecosystem/MHU/gear-pods.md) to MetaHeroes:
+This leads to the DOTs distributing [**Gear Pods**](../../learn/ecosystem/MHU/gear-pods.md) to MetaHeroes:
 
 {% hint style="info" %}
 **What is a Gear Pod?**
@@ -39,7 +39,7 @@ There are **3** key elements to POWer Up Summer. Here's how it works:
 
 ### **1) Gear Pod minting**
 
-Holders of at least 1 [MetaHero Identity](../learn/ecosystem/MHU/identities.md) **AND** at least 1 [Planet](../learn/ecosystem/MHU/planets.md) are eligible to mint Gear Pods:
+Holders of at least 1 [MetaHero Identity](../../learn/ecosystem/MHU/identities.md) **AND** at least 1 [Planet](../../learn/ecosystem/MHU/planets.md) are eligible to mint Gear Pods:
 
 **What you need to know:**&#x20;
 
@@ -47,23 +47,23 @@ Holders of at least 1 [MetaHero Identity](../learn/ecosystem/MHU/identities.md) 
   * 1 MetaHero + 1 mismatching, non-origin Planet = Astral Gear Pod
   * 1 MetaHero + 1 matching, origin Planet = Cosmic Gear Pod (`{insert Planet}`)
   * 1 MetaHero + 1 Moon = Cosmic Gear Pod (Moon)
-* each Gear Pod can be minted for 2000 [$POW](../learn/ecosystem/MHU/POW.md)
+* each Gear Pod can be minted for 2000 [$POW](../../learn/ecosystem/MHU/POW.md)
 
-![A chart showing the 3 possible Metahero-Planet pairs (source)](<../.gitbook/assets/gear pod\_chart>)
+![A chart showing the 3 possible Metahero-Planet pairs (source)](<../../.gitbook/assets/gear pod\_chart>)
 
 ### **2) Nebula Gear Pod distribution & raffles**
 
 Nebula Gear Pods can't be minted, instead:
 
 * 1 Nebula Gear Pod will be given to collectors, **for each** of the following Pixel Vault assets they hold:
-  * [MetaHero Core Identity](../learn/ecosystem/MHU/identities.md#core-metahero-identities)
-  * [PUNKS Comic #1: Special Edition](../learn/gamification/punks/comic1.md#outcome)
-  * [Planet DAO Set](../learn/gamification/sets.md)
+  * [MetaHero Core Identity](../../learn/ecosystem/MHU/identities.md#core-metahero-identities)
+  * [PUNKS Comic #1: Special Edition](../../learn/gamification/punks/comic1.md#outcome)
+  * [Planet DAO Set](../../learn/gamification/sets.md)
 * holders of at least 1 Astral **OR** 1 Cosmic Gear Pod are entered into raffles to win Nebula Gear Pods. Each Astral or Cosmic Gear Pod acts as 1 ticket into the raffle. The total number of Nebula Gear Pods raffled out will be 2% of the total Astral Gear Pod supply + 5% of the total Cosmic Gear Pod supply
 
 ### **3) MintPass #2 raffles**
 
-Holders of at least 1 [MetaHero Identity](../learn/ecosystem/MHU/identities.md) **AND** at least 1 Gear Pod (any of the 3 types) are eligible for raffles to win MintPass #2.
+Holders of at least 1 [MetaHero Identity](../../learn/ecosystem/MHU/identities.md) **AND** at least 1 Gear Pod (any of the 3 types) are eligible for raffles to win MintPass #2.
 
 **What you need to know:**&#x20;
 
@@ -162,9 +162,9 @@ reserve all rights to ~oblit~ ~annih~ take mili
 
 ### Rules of Engagement
 
-This was followed by the release of the Rules of Engagement, which introduced the concept of **Gear Pods** and teased the mechanics [MintPass #2](../learn/ecosystem/MHU/mintpass/2.md) raffles.
+This was followed by the release of the Rules of Engagement, which introduced the concept of **Gear Pods** and teased the mechanics [MintPass #2](../../learn/ecosystem/MHU/mintpass/2.md) raffles.
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 ### Gear Pod Mint #1
 

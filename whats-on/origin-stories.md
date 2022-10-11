@@ -2,7 +2,7 @@
 description: Everything you need to know about the Origin Stories burn-to-claim mechanic
 ---
 
-# Origin Stories: Burn to Claim
+# 🟠 Origin Stories: Burn to Claim
 
 {% hint style="warning" %}
 **The burn-to-claim window for Origin Stories Issue 3 is open** for all holders of:

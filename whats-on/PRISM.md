@@ -4,7 +4,7 @@ description: >-
   Dashboard (a.k.a PRISM)
 ---
 
-# UPDAO Voting Dashboad (PRISM)
+# 🟠 UPDAO Voting Dashboad (PRISM)
 
 {% hint style="warning" %}
 * **Participate in the governance of the MetaHero Universe on** [**PRISM**](https://updao.app/), if you hold at least 1 [planet](../learn/ecosystem/MHU/planets.md). For more info, read through the official documentation [here](https://docs.updao.app/).

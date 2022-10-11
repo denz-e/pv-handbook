@@ -2,7 +2,7 @@
 description: Everything you need to know about the Apes Out on the Town comic
 ---
 
-# Elite Ape Comic: Apes Out on the Town
+# 🟢 Elite Ape Comic: Apes Out on the Town
 
 {% hint style="info" %}
 The mint window for the Elite Ape Comic and the commemorative NFT for Ape Madness participants **closed** at 5pm EDT on Thursday 28 July 2022.
@@ -16,9 +16,9 @@ The mint window for the Elite Ape Comic and the commemorative NFT for Ape Madnes
 
 ## Context
 
-**Apes Out on the Town** is a comic following the story of the [Elite Apes](../learn/gamification/punks/comic2.md#elite-apes).&#x20;
+**Apes Out on the Town** is a comic following the story of the [Elite Apes](../../learn/gamification/punks/comic2.md#elite-apes).&#x20;
 
-![](<../.gitbook/assets/Apes Out on the Town - Cover>)
+![](<../../.gitbook/assets/Apes Out on the Town - Cover>)
 
 {% hint style="info" %}
 **Who are the Elite Apes?**
@@ -42,13 +42,13 @@ Here's the official synopsis:
 **What you need to know:**
 
 * **Deadline:** minting for the comic opened until **5pm EDT on Thursday 28 July 2022**
-* **Price:** Free, but you need to burn 1 [Elite Ape Entry Coin](../learn/gamification/punks/comic2.md#elite-ape-entry-coins) for each comic
+* **Price:** Free, but you need to burn 1 [Elite Ape Entry Coin](../../learn/gamification/punks/comic2.md#elite-ape-entry-coins) for each comic
 * **Available Supply:** maximum supply is limited to 13,328 (i.e. the number of Elite Ape Entry Coins available when the mint window opened)
 
 {% hint style="info" %}
 **What is an Elite Ape Entry Coin?**
 
-Elite Ape Entry Coins are NFTs which Pixel Vault distributed to holders of Pixel Vault and/or Bored Ape Yacht Club assets, for the release of the [Elite Ape Collector's Editions ](../learn/gamification/punks/comic2.md)of [PUNKS Comic #2](../learn/ecosystem/punks/punks-comic/#2). It acted as a raffle ticket for the opportunity to mint the Collector's Editions, and to mint, collectors needed to burn their Entry Coin.\
+Elite Ape Entry Coins are NFTs which Pixel Vault distributed to holders of Pixel Vault and/or Bored Ape Yacht Club assets, for the release of the [Elite Ape Collector's Editions ](../../learn/gamification/punks/comic2.md)of [PUNKS Comic #2](../../learn/ecosystem/punks/punks-comic/#2). It acted as a raffle ticket for the opportunity to mint the Collector's Editions, and to mint, collectors needed to burn their Entry Coin.\
 
 
 The original 19,328 supply of Entry Coins was reduced to 13,328 after the Elite Ape Collector's Edition mint.
