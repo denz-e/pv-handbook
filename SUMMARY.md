@@ -53,6 +53,7 @@
     * [PUNKS Comic #3: Pack Style Drop](learn/gamification/punks/comic3.md)
   * [Gamification of MetaHero Universe](learn/gamification/MHU/README.md)
     * [MintPass #1: Burn or Hold](learn/gamification/MHU/mintpass1.md)
+* [Merch Store](learn/merch.md)
 
 ## Resources
 

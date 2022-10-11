@@ -61,15 +61,6 @@ _This list is intended to be a guide for you to act on, and prepare for ongoing/
 * This project has now been paused so that Odious has focus his attention on the [MetaHero Universe](../learn/ecosystem/MHU/)
 
 
-
-### [MetaHero Universe](../learn/ecosystem/MHU/) merch is coming
-
-* Pixel Vault are polling community members to decide which [Core MetaHero Identities](../learn/ecosystem/MHU/identities.md#core-metahero-identities) will feature on the upcoming merch
-* 16 Cores were in consideration. Check out the competition here:
-  * [Round of 16](https://twitter.com/MetaHero\_/status/1552051173724651521)
-  * [Round of 8](https://twitter.com/MetaHero\_/status/1552398444731457536)
-  * [Winners](https://twitter.com/MetaHero\_/status/1552686713499271172)
-* Regular voting is taking place for merch designs in the _#bts-pv-vote_ channel in Discord
 {% endtab %}
 
 {% tab title="Coming Soon" %}
