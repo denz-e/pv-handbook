@@ -30,9 +30,7 @@ _This list is intended to be a guide for you to act on, and prepare for ongoing/
 
 ### [POWer Up Summer](POWerUpSummer.md)
 
-* **Unstake your MetaHero Identities** to be eligible for the next [Gear Pod mint](POWerUpSummer.md#1-gear-pod-minting) & [MintPass 2 raffle](POWerUpSummer.md#3-mintpass-2-raffles)
-* **Prepare your MetaHero Identity & Planet pairs** for the next snapshot, to be eligible to [mint Gear Pods](POWerUpSummer.md#1-gear-pod-minting)
-* **Load up on Gear Pods** to increase your chances in the [Nebula Gear Pod raffles](POWerUpSummer.md#2-nebula-gear-pod-distribution-and-raffles) (for all Gear Pod holders) & [MintPass 2 raffles](POWerUpSummer.md#3-mintpass-2-raffles) (for MetaHero holders)
+* **POWer Up Summer** ended on 14 Sep 2022. Originally, Pixel Vault planned to allow multiple Gear Pod mints, with multiple sets of Nebula Gear Pod and MintPass 2 raffles. However, due to delays from organising the [make-up mint](dashboard.md#gear-pod-mint-1-make-up-mint), and a lack of clarity around what Gear Pods are for, POWer Up Summer ended after one set of raffles.
 
 
 

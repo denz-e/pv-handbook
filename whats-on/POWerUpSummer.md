@@ -4,10 +4,8 @@ description: Everything you need to know about POWer Up Summer
 
 # POWer Up Summer
 
-{% hint style="warning" %}
-* **Unstake your MetaHero Identities** to be eligible for the next Gear Pod mint & MintPass 2 raffle
-* **Prepare your MetaHero Identity & Planet pairs** for the next snapshot as part of [POWer Up Summer](POWerUpSummer.md), to be eligible to mint Gear Pods&#x20;
-* **Load up on Gear Pods** to increase your chances in the Nebula Gear Pod raffles (for all Gear Pod holders) & MintPass 2 raffles (for MetaHero holders)
+{% hint style="info" %}
+**POWer Up Summer ended on 14 Sep 2022.** Originally, Pixel Vault planned to allow multiple Gear Pod mints, with multiple sets of Nebula Gear Pod and MintPass 2 raffles. However, due to delays from organising the [make-up mint](POWerUpSummer.md#gear-pod-mint-1-make-up-mint), and a lack of clarity around what Gear Pods are for, POWer Up Summer ended after one set of raffles.
 {% endhint %}
 
 **On this page, you'll find:**
@@ -188,6 +186,12 @@ A make-up mint was opened on 27 July 2022 for collectors who:
 897 Nebula Gear Pods were distributed via an airdrop on 4 Aug 2022. Details of how these were distributed are [here](POWerUpSummer.md#2-nebula-gear-pod-distribution-and-raffles).
 
 {% embed url="https://twitter.com/MetaHero_/status/1555283218605252608" %}
+
+### MintPass 2 Airdrop
+
+2,000 MintPass 2's were distributed via an airdrop on 14 September 2022. This airdrop marked the **end of POWep UP Summer.**
+
+{% embed url="https://twitter.com/metahero_/status/1570125904340451334" %}
 
 ## Resources
 
