@@ -1,6 +1,6 @@
 # Gear Pods
 
-****[**Gear Pods**](https://metaherouniverse.com/gearpods.html) are "critical supplies" that the [DOTs](DOTs.md) are deploying to [Inhabitants Identities](identities.md) to help them power up and explore the[ Inhabitants Universe](./).
+**Gear Pods** are "critical supplies" that the [DOTs](DOTs.md) are deploying to [Inhabitants Identities](identities.md) to help them power up and explore the[ Inhabitants Universe](./).
 
 {% hint style="info" %}
 **Note:**

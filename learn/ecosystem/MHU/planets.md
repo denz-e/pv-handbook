@@ -2,7 +2,7 @@
 
 ## Planetary DAO
 
-****[**Planets**](https://metaherouniverse.com/planetdao.html) are the setting for the [Inhabitants Universe](./). Each Planet has their own distinct environment, and it’s where Universe’s stories will take place, and where characters like [Inhabitants Identities](identities.md) or [DOTs](DOTs.md) come from. Mirroring our real world, there are 9 planets and 1 moon.
+****[**Planets**](https://www.inhabitantsuniverse.com/solar-system) are the setting for the [Inhabitants Universe](./). Each Planet has their own distinct environment, and it’s where Universe’s stories will take place, and where characters like [Inhabitants Identities](identities.md) or [DOTs](DOTs.md) come from. Mirroring our real world, there are 9 planets and 1 moon.
 
 Structurally, each Planet is designed to be its own decentralised autonomous organisation **(DAO)**. Collectors are able to purchase and own **Planetary DAO tokens**. These tokens represent proportional ownership of, and therefore voting power in, the specific Planet.
 
