@@ -4,8 +4,8 @@
 
 They’re made up of:
 
-* 146 [Pixel Vault Core Identities](identities.md#core-metahero-identities)
-* 9678 [Generative Inhabitants Identities](identities.md#generative-metahero-identities)
+* 146 [Pixel Vault Core Identities](identities.md#cores)
+* 9678 [Generative Inhabitants Identities](identities.md#generatives)
 
 ## Pixel Vault Core Identities <a href="#cores" id="cores"></a>
 

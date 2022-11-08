@@ -2,8 +2,8 @@
 
 [MintPass #1](../../ecosystem/IU/mintpass/1.md) is the ticket to getting an Inhabitants Identity. Pixel Vault has given holders 2 choices:
 
-* **burn** the MintPass and receive a [Generative](../../ecosystem/IU/identities.md#generative-metahero-identities); or
-* **hold** onto it for the chance of winning one of 144 [Cores](../../ecosystem/IU/identities.md#core-metahero-identities), which are raffled out in groups of 12
+* **burn** the MintPass and receive a [Generative](../../ecosystem/IU/identities.md#generatives); or
+* **hold** onto it for the chance of winning one of 144 [Cores](../../ecosystem/IU/identities.md#cores), which are raffled out in groups of 12
 
 ## Burn vs. Hold
 

@@ -8,7 +8,7 @@ The [official Pixel Vault merch store](http://shop.pixelvault.com/) is a custom-
 
 ### Merch Drop 1) September 2022
 
-[PUNKS](ecosystem/punks/), [Inhabits Universe](ecosystem/IU/) and Pixel Vault-branded hats, tees and hoodies were available for purchase at the following prices, for a limited-time window. This drop is the only one that'll feature the original MetaHero Universe branding.
+[PUNKS](ecosystem/punks/), [Inhabitants Universe](ecosystem/IU/) and Pixel Vault-branded hats, tees and hoodies were available for purchase at the following prices, for a limited-time window. This drop is the only one that'll feature the original MetaHero Universe branding.
 
 * **Hats**: 1,000 $POW / 300 $PUNKS
 * **Tees**: 1,000 $POW / 300 $PUNKS
