@@ -2,7 +2,7 @@
 description: Documenting the latest news around Pixel Vault's blockchain gaming ecosystem
 ---
 
-# 🟠 Blockchain Gaming Ecosystem
+# 🗞 Blockchain Gaming Ecosystem News
 
 **On this page, you'll find:**
 

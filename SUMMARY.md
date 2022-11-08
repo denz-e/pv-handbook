@@ -8,9 +8,11 @@
 ## What's On
 
 * [⭐️ Dashboard](whats-on/dashboard.md)
-* [🟠 Blockchain Gaming Ecosystem News](whats-on/gaming-news.md)
+* [🟠 Inhabitants Stories](whats-on/inhabitants-stories.md)
 * [🟠 Origin Stories: Burn to Claim](whats-on/origin-stories.md)
 * [🟠 UPDAO Voting Dashboad (PRISM)](whats-on/PRISM.md)
+* [🗞 News & Updates](whats-on/news/README.md)
+  * [🗞 Blockchain Gaming Ecosystem News](whats-on/news/gaming-news.md)
 * [🟢 Completed Events](whats-on/complete/README.md)
   * [🟢 Community Content Challenge](whats-on/content-challenge.md)
   * [🟢 POWer Up Summer](whats-on/POWerUpSummer.md)

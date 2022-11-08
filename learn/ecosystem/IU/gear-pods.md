@@ -6,7 +6,7 @@
 **Note:**
 
 * For more details on gear pods, including the gamified mint mechanics and timeline of events, check out [POWer Up Summer](../../../whats-on/POWerUpSummer.md).
-* For the latest news, refer to the [Blockchain Gaming Ecosystem updates](../../../whats-on/gaming-news.md)
+* For the latest news, refer to the [Blockchain Gaming Ecosystem updates](../../../whats-on/news/gaming-news.md)
 {% endhint %}
 
 **How Gear Pods work:**

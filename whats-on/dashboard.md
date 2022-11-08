@@ -16,6 +16,13 @@ description: All things Pixel Vault which you may want to know, do or prepare fo
 _This list is intended to be a guide for you to act on, and prepare for ongoing/upcoming events. It's not necessarily exhaustive and is only based on details that have been confirmed by the Pixel Vault team._
 {% endhint %}
 
+###
+
+### [Inhabitants Stories](inhabitants-stories.md)
+
+* ****[**Claim**](https://enterthevault.app/minting/the-pulse/) **a free **_**Inhabitants Story 0**_** collectible token** if you held a Generative Inhabitants Identity or MintPass #1, during the snapshot at 11am EDT on 24 October 24, 2022. The claim window is open until the release of Story 1 (Date TBC)
+* Holders of Core Identities or PUNKS Comic 1: Special Edition were airdropped a Collector's Edition of Story 0 – no further action required.
+
 
 
 ### [Origin Stories: Burn to Claim](origin-stories.md)
@@ -31,7 +38,17 @@ _This list is intended to be a guide for you to act on, and prepare for ongoing/
 {% endtab %}
 
 {% tab title="News & Announcements" %}
+****
+
+### [Blockchain Gaming Ecosystem News](news/gaming-news.md)
+
+* Here's a resource to help you catch up on the latest updates on the upcoming blockchain games
+
+****
+
 ### ****[**The MetaHero Universe has been rebranded as the Inhabitants Universe**](https://medium.com/@inhabitantsuniverse/welcome-to-the-inhabitants-universe-7f6ecde61f6)****
+
+{% embed url="https://twitter.com/inhabitants_/status/1585012095359528961" %}
 
 * **Explore the Inhabitant Universe here:** [https://www.inhabitantsuniverse.com/](https://www.inhabitantsuniverse.com/)
 * **The names of the following collections have changed to reflect the updated branding:**
