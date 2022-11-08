@@ -31,4 +31,4 @@ Every trait you see on a Generative is an individual image layer that’s been r
 Being generated at the time of mint means that with the Generatives, there’s no human input. Given the image layers can be combined in basically an infinite number of ways, and you don’t want to end up with any weird layering errors, this is technically and artistically difficult to do. Especially because you can’t go back to fix it.
 {% endhint %}
 
-![Examples of Generatives](<../../../.gitbook/assets/image (2) (1).png>)
+![Examples of Generatives](<../../../.gitbook/assets/image (2).png>)

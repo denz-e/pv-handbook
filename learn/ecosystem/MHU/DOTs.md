@@ -6,4 +6,4 @@
 
 **Designated Observational Travelers** (**DOTs)** are additional characters in the [Inhabitants Universe](./), created by a fictional company called Genesynth Industries. They'll come in 7 different tiers, with varying sizes and skill levels. DOTs will have a role to play in the stories and games of the MetaHero Universe.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sneak peek of DOTs</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Sneak peek of DOTs</p></figcaption></figure>
