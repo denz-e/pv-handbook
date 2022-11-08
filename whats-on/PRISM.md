@@ -7,7 +7,7 @@ description: >-
 # 🟠 UPDAO Voting Dashboad (PRISM)
 
 {% hint style="warning" %}
-* **Participate in the governance of the Inhabitants Universe on** [**PRISM**](https://updao.app/), if you hold at least 1 [planet](../learn/ecosystem/MHU/planets.md). For more info, read through the official documentation [here](https://docs.updao.app/).
+* **Participate in the governance of the Inhabitants Universe on** [**PRISM**](https://updao.app/), if you hold at least 1 [planet](../learn/ecosystem/IU/planets.md). For more info, read through the official documentation [here](https://docs.updao.app/).
 {% endhint %}
 
 **On this page, you'll find:**
@@ -24,7 +24,7 @@ description: >-
 The UPDAO is like the Federal Government or United Nations of the Inhabits Universe. It’s where every Planet comes together to make decisions on behalf of the Universe as a whole. Each planet has a fixed amount of voting power within the UPDAO.
 {% endhint %}
 
-Pixel Vault's ambition is to turn the [Inhabitants Universe](../learn/ecosystem/MHU/) into a decentralised gaming platform owned and governed by fans. A core part of this are the [planets](../learn/ecosystem/MHU/planets.md), as each planet token represents proportional ownership and voting power in the specific planet. Together, the 10 planets/DAOs make decisions in the broader [UPDAO](../learn/ecosystem/MHU/planets.md#united-planets-dao).
+Pixel Vault's ambition is to turn the [Inhabitants Universe](../learn/ecosystem/IU/) into a decentralised gaming platform owned and governed by fans. A core part of this are the [planets](../learn/ecosystem/IU/planets.md), as each planet token represents proportional ownership and voting power in the specific planet. Together, the 10 planets/DAOs make decisions in the broader [UPDAO](../learn/ecosystem/IU/planets.md#united-planets-dao).
 
 To enable this experience, Pixel Vault has to:
 
@@ -39,7 +39,7 @@ To do this, Pixel Vault has been building a custom **UPDAO voting dashboard** ca
 
 ## Beta Testing
 
-Prior to launch, beta testing of PRISM was previously open to holders of at least 1 planet. Testers had the opportunity to share their thoughts/ideas/feedback, and had the chance to receive [$POW](../learn/ecosystem/MHU/POW.md) rewards for their contributions.
+Prior to launch, beta testing of PRISM was previously open to holders of at least 1 planet. Testers had the opportunity to share their thoughts/ideas/feedback, and had the chance to receive [$POW](../learn/ecosystem/IU/POW.md) rewards for their contributions.
 
 <details>
 

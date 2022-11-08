@@ -9,7 +9,7 @@ description: >-
 This section will take you through each asset with the Pixel Vault ecosystem. It covers:
 
 * [PUNKS](punks/)
-* [MetaHero Universe](MHU/identities.md)
+* [Inhabitants Universe](IU/)
 * [Pixel Vault Founder's DAO](pvfd.md)
 * [Pixel Vault Sports](pv-sports.md)
 

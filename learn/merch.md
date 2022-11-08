@@ -4,11 +4,11 @@ description: Everything you need to know about Pixel Vault merch
 
 # Merch Store
 
-The [official Pixel Vault merch store](http://shop.pixelvault.com/) is a custom-built solution with web3 integration. It allows individuals to purchase merch using Pixel Vault's native tokens: [$PUNKS](ecosystem/punks/PUNKS.md) and [$POW](ecosystem/MHU/POW.md).
+The [official Pixel Vault merch store](http://shop.pixelvault.com/) is a custom-built solution with web3 integration. It allows individuals to purchase merch using Pixel Vault's native tokens: [$PUNKS](ecosystem/punks/PUNKS.md) and [$POW](ecosystem/IU/POW.md).
 
 ### Merch Drop 1) September 2022
 
-[PUNKS](ecosystem/punks/), [Inhabits Universe](ecosystem/MHU/) and Pixel Vault-branded hats, tees and hoodies were available for purchase at the following prices, for a limited-time window. This drop is the only one that'll feature the original MetaHero Universe branding.
+[PUNKS](ecosystem/punks/), [Inhabits Universe](ecosystem/IU/) and Pixel Vault-branded hats, tees and hoodies were available for purchase at the following prices, for a limited-time window. This drop is the only one that'll feature the original MetaHero Universe branding.
 
 * **Hats**: 1,000 $POW / 300 $PUNKS
 * **Tees**: 1,000 $POW / 300 $PUNKS

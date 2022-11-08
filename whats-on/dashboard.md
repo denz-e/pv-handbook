@@ -26,7 +26,7 @@ _This list is intended to be a guide for you to act on, and prepare for ongoing/
 
 ### [UPDAO Voting Dashboard (PRISM)](PRISM.md)
 
-* **Participate in the governance of the Inhabitants Universe on** [**PRISM**](https://updao.app/), if you hold at least 1 [planet](../learn/ecosystem/MHU/planets.md). For more info, read through the official documentation [here](https://docs.updao.app/).\
+* **Participate in the governance of the Inhabitants Universe on** [**PRISM**](https://updao.app/), if you hold at least 1 [planet](../learn/ecosystem/IU/planets.md). For more info, read through the official documentation [here](https://docs.updao.app/).\
 
 {% endtab %}
 
@@ -73,19 +73,19 @@ _This list is intended to be a guide for you to act on, and prepare for ongoing/
 ### [Pixel Vault Founder's DAO](../learn/ecosystem/pvfd.md) PFP is on pause
 
 * Odious originally planned to create a PFP in collaboration with PVFD
-* This project has now been paused so that Odious has focus his attention on the [MetaHero Universe](../learn/ecosystem/MHU/)
+* This project has now been paused so that Odious has focus his attention on the [Inhabitants Universe](../learn/ecosystem/IU/)
 {% endtab %}
 
 {% tab title="Coming Soon" %}
 ### **2022**
 
 * **Q4:**
-  * **Release of** [**DOTs**](../learn/ecosystem/MHU/DOTs.md) **& blockchain games for** [**Inhabitants Universe**](../learn/ecosystem/MHU/)**, leveraging** [**$POW**](../learn/ecosystem/MHU/POW.md)**:**&#x20;
+  * **Release of** [**DOTs**](../learn/ecosystem/IU/DOTs.md) **& blockchain games for** [**Inhabitants Universe**](../learn/ecosystem/IU/)**, leveraging** [**$POW**](../learn/ecosystem/IU/POW.md)**:**&#x20;
     * _"So for DOTs, we're looking to get those out ahead of the game, so that people have an opportunity to trade etc, and then have the game sometime in the fall. So, late summer, early fall is when you're gonna see a lot of movement on this front."_ [(source: MetaVault: May 11th Town Hall Recap)](https://www.metavault.fm/p/metavault-may-11th-town-hall-recap#%C2%A7metahero-universe-game)
     * _"These intelligent robots (DOTs) are by far our most ambitious project since PUNKS Comic Issue #1, and innovation takes time. I'm confident the experience will not only be fun, but also healthy for our ecosystem. It's time to show, not tell, and you will see for yourself beginning this fall"_ [(source: MetaHero Universe Update, 18 Aug 2022)](https://twitter.com/MetaHero\_/status/1560374739784310785)
     * "DOTs will launch later this year with two evolution tiers, progressively increasing to six total evolutionary tiers. Create your perfect companion by using MintPass 2 digital tokens." [(source: Welcome to the Inhabitants Universe)](https://medium.com/@inhabitantsuniverse/welcome-to-the-inhabitants-universe-7f6ecde61f6)&#x20;
   * **Launch of Core Identity Committee**&#x20;
-    * Launch of the MetaHero Core Identity Committee to allow holders to guide how the [Core MetaHero Identities](../learn/ecosystem/MHU/identities.md#core-metahero-identities) will be used. _"Participants will join members of the Pixel Vault team for quarterly & ad hoc creative meetings. Members will be compensated for their time and participation."_ [(source: @MetaHero\_, 21 Sep 2022)](https://twitter.com/pixelvault\_/status/1572299586143666178)
+    * Launch of the MetaHero Core Identity Committee to allow holders to guide how the [Core MetaHero Identities](../learn/ecosystem/IU/identities.md#core-metahero-identities) will be used. _"Participants will join members of the Pixel Vault team for quarterly & ad hoc creative meetings. Members will be compensated for their time and participation."_ [(source: @MetaHero\_, 21 Sep 2022)](https://twitter.com/pixelvault\_/status/1572299586143666178)
 * **TBC:**
   * [PUNKS](../learn/ecosystem/punks/) PFP to gain access to PUNKS utility: _"The Pixel Vault community continues to grow and with the launch of PUNKS PFP later this year, we will have established two distinct and critical properties that we are building out TOGETHER for the long-term."_  [(source: 10 Questions for GFunk)](https://medium.com/@pixelvault/10-questions-for-gfunk-d2a779a5971c)
 

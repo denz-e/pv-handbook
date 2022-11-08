@@ -1,6 +1,6 @@
 # Pixel Vault Founder's DAO
 
-The **Pixel Vault Founder’s DAO (PVFD)** is collectively owned and governed by owners of PVFD tokens, similar to the [Planets](MHU/planets.md). You can think of the PVFD as a company - only in this company, every team member is a passionate PV fan:
+The **Pixel Vault Founder’s DAO (PVFD)** is collectively owned and governed by owners of PVFD tokens, similar to the [Planets](IU/planets.md). You can think of the PVFD as a company - only in this company, every team member is a passionate PV fan:
 
 * every member brings their unique skills, knowledge and perspectives to the broader community and DAO
 * the company is a close partner to Pixel Vault, as members get exclusive access to GFunk and the team through a private Discord channel

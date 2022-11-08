@@ -24,6 +24,6 @@ Tells the story of a treasure hunt for what ends up being adidas clothing. Docum
 
 ## PUNKS Comic #3: A Glitch in Time <a href="#3" id="3"></a>
 
-We see our PUNKS gain superpowers in a crossover between the PUNKS and the [MetaHero Universe](../../MHU/) _(Pixel Vault’s 2nd brand / IP)._ It's the first time the [MetaHero Identities](../../MHU/identities.md) appear in PUNKS Comic.
+We see our PUNKS gain superpowers in a crossover between the PUNKS and the [MetaHero Universe](../../IU/) _(Pixel Vault’s 2nd brand / IP)._ It's the first time the [MetaHero Identities](../../IU/identities.md) appear in PUNKS Comic.
 
 **Read More:** [PUNKS Comic #3: Pack Style Drop](../../../gamification/punks/comic3.md)

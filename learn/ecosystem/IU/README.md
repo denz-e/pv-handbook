@@ -7,7 +7,7 @@
 The key components of the Inhabitants Universe are:
 
 * [Planets](planets.md)
-* [MetaHero Identities](identities.md)
+* [Inhabitants Identities](identities.md)
 * [DOTs](DOTs.md)
 * [Species](species.md)
 * [MintPass](mintpass/)

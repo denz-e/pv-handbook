@@ -68,6 +68,6 @@ Also, PV is thinking more broadly than just the collector experience. They want 
 **For example:**
 
 * [developing stories behind NFTs](history/pv-origins.md) through [PUNKS Comic](ecosystem/punks/punks-comic/)
-* creation of [MintPasses](ecosystem/MHU/mintpass/) avoid gas wars
-* releasing a high supply of [planet DAO tokens](ecosystem/MHU/planets.md), in a context where 10,000 supply NFT collections were the norm
+* creation of [MintPasses](ecosystem/IU/mintpass/) avoid gas wars
+* releasing a high supply of [planet DAO tokens](ecosystem/IU/planets.md), in a context where 10,000 supply NFT collections were the norm
 * creating an [on-chain queue system to distribute PUNKS Comic #2: Elite Ape Collector's Editions](gamification/punks/comic2.md#elite-ape-entry-coins)

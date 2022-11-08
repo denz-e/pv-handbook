@@ -16,7 +16,7 @@ description: Everything you need to know about the first Community Content Chall
 
 ## Context
 
-On 11 June 2022, members of the [Pixel Vault Founder's DAO](../learn/ecosystem/pvfd.md) voted to create a community generated content program. The goal of the program is to encourage and reward the development of community content, to help educate and grow the Pixel Vault community. As part of the program, a reward pool of 200 [MintPass #2s](../learn/ecosystem/MHU/mintpass/2.md) has been created:
+On 11 June 2022, members of the [Pixel Vault Founder's DAO](../learn/ecosystem/pvfd.md) voted to create a community generated content program. The goal of the program is to encourage and reward the development of community content, to help educate and grow the Pixel Vault community. As part of the program, a reward pool of 200 [MintPass #2s](../learn/ecosystem/IU/mintpass/2.md) has been created:
 
 * 50 MintPass #2 has been allocated to the challenge #1, focused on the PUNKS ecosystem
 
@@ -33,7 +33,7 @@ On 11 June 2022, members of the [Pixel Vault Founder's DAO](../learn/ecosystem/p
 * **How do I make a submission?** Submit your content to **** foundersdao@protonmail.com
 * **When do I need to submit by?** September 1, 2022
 * **Can I make more than 1 submission?** Yes!
-* **What are the rewards?** 50 [MintPass #2](../learn/ecosystem/MHU/mintpass/2.md) will be rewarded to the top 10 submissions
+* **What are the rewards?** 50 [MintPass #2](../learn/ecosystem/IU/mintpass/2.md) will be rewarded to the top 10 submissions
 * **How will winners be selected?** This will happen in 2 phases:
   * **1)** The Pixel Vault Founder's DAO Communications Committee + a few selected community members will curate a list of the top 10 submissions
   * **2)** PVFD members will rank the submissions from 1-10. _Note: each member will only have 1 vote - it is not weighted by the number of Founder's DAO token held._
@@ -70,7 +70,7 @@ __
 {% tab title="Rewards" %}
 ### Reward Structure
 
-50 [MintPass #2](../learn/ecosystem/MHU/mintpass/2.md) (MP2) will be rewarded to the top 10 submissions. They will be distributed in a tiered format according to the vote of the community:
+50 [MintPass #2](../learn/ecosystem/IU/mintpass/2.md) (MP2) will be rewarded to the top 10 submissions. They will be distributed in a tiered format according to the vote of the community:
 
 * **1st place:** 20 MP2
 * **2nd place:** 10 MP2

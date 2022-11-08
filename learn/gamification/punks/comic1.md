@@ -15,7 +15,7 @@ PUNKS Comic #1 enables holders to gain proportional ownership over the 16 Crypto
 
 ## Burn for DAOs
 
-PUNKS Comic #1 was the key to two of Pixel Vault’s most exclusive DAOs: [the Pixel Vault Founder’s DAO](../../ecosystem/pvfd.md) (PVFD) and the [Moon DAO](../../ecosystem/MHU/planets.md#planetary-dao).
+PUNKS Comic #1 was the key to two of Pixel Vault’s most exclusive DAOs: [the Pixel Vault Founder’s DAO](../../ecosystem/pvfd.md) (PVFD) and the [Moon DAO](../../ecosystem/IU/planets.md#planetary-dao).
 
 To receive either of those DAO tokens, holders needed to _burn_ their PUNKS Comic #1. This means permanently removing the comic token from the available supply, and giving up the option to stake it for $PUNKS tokens, as well as the right to claim a physical copy.
 
