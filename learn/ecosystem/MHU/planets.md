@@ -2,7 +2,7 @@
 
 ## Planetary DAO
 
-****[**Planets**](https://metaherouniverse.com/planetdao.html) are the setting for the [MetaHero Universe](./). Each Planet has their own distinct environment, and it’s where Universe’s stories will take place, and where characters like [MetaHero Identities](identities.md) come from. Mirroring our real world, there are 9 planets and 1 moon.
+****[**Planets**](https://metaherouniverse.com/planetdao.html) are the setting for the [Inhabitants Universe](./). Each Planet has their own distinct environment, and it’s where Universe’s stories will take place, and where characters like [Inhabitants Identities](identities.md) or [DOTs](DOTs.md) come from. Mirroring our real world, there are 9 planets and 1 moon.
 
 Structurally, each Planet is designed to be its own decentralised autonomous organisation **(DAO)**. Collectors are able to purchase and own **Planetary DAO tokens**. These tokens represent proportional ownership of, and therefore voting power in, the specific Planet.
 
@@ -22,7 +22,7 @@ Here’s each of the planets and their corresponding token supply:
 
 ## United Planets DAO
 
-**The United Planets DAO, or UPDAO** is like the Federal Government or United Nations. It’s where every Planet comes together to make decisions on behalf of the MetaHero Universe as a whole.
+**The United Planets DAO, or UPDAO** is like the Federal Government or United Nations. It’s where every Planet comes together to make decisions on behalf of the Inhabitants Universe as a whole.
 
 {% hint style="info" %}
 **Note:** Pixel Vault has been building a custom UPDAO voting dashboard called _Planet Referendum and Independence Sustainability Machine_ **(PRISM).** For the latest news, check out [UPDAO Voting Dashboard (PRISM)](../../../whats-on/PRISM.md).

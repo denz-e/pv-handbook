@@ -7,7 +7,7 @@ description: >-
 # 🟠 UPDAO Voting Dashboad (PRISM)
 
 {% hint style="warning" %}
-* **Participate in the governance of the MetaHero Universe on** [**PRISM**](https://updao.app/), if you hold at least 1 [planet](../learn/ecosystem/MHU/planets.md). For more info, read through the official documentation [here](https://docs.updao.app/).
+* **Participate in the governance of the Inhabitants Universe on** [**PRISM**](https://updao.app/), if you hold at least 1 [planet](../learn/ecosystem/MHU/planets.md). For more info, read through the official documentation [here](https://docs.updao.app/).
 {% endhint %}
 
 **On this page, you'll find:**
@@ -21,10 +21,10 @@ description: >-
 {% hint style="info" %}
 **What is the United Planets DAO (UPDAO)?**
 
-The UPDAO is like the Federal Government or United Nations of the MetaHero Universe. It’s where every Planet comes together to make decisions on behalf of the Universe as a whole. Each planet has a fixed amount of voting power within the UPDAO.
+The UPDAO is like the Federal Government or United Nations of the Inhabits Universe. It’s where every Planet comes together to make decisions on behalf of the Universe as a whole. Each planet has a fixed amount of voting power within the UPDAO.
 {% endhint %}
 
-Pixel Vault's ambition is to turn the [MetaHero Universe](../learn/ecosystem/MHU/) into a decentralised gaming platform owned and governed by fans. A core part of this are the [planets](../learn/ecosystem/MHU/planets.md), as each planet token represents proportional ownership and voting power in the specific planet. Together, the 10 planets/DAOs make decisions in the broader [UPDAO](../learn/ecosystem/MHU/planets.md#united-planets-dao).
+Pixel Vault's ambition is to turn the [Inhabitants Universe](../learn/ecosystem/MHU/) into a decentralised gaming platform owned and governed by fans. A core part of this are the [planets](../learn/ecosystem/MHU/planets.md), as each planet token represents proportional ownership and voting power in the specific planet. Together, the 10 planets/DAOs make decisions in the broader [UPDAO](../learn/ecosystem/MHU/planets.md#united-planets-dao).
 
 To enable this experience, Pixel Vault has to:
 
@@ -67,7 +67,7 @@ _UPDAO Dashboard BETA SIGNUP_ [_https://forms.gle/qiJaxkvDCRt6Skf2A_](https://fo
 
 ## Launch of PRISM
 
-[PRISM](https://updao.app/) was officially launched on 18 Aug 2022. Now, all planet holders can participate in discussions and votes to shape the MetaHero Universe.
+[PRISM](https://updao.app/) was officially launched on 18 Aug 2022. Now, all planet holders can participate in discussions and votes to shape the Inhabitants Universe.
 
 {% embed url="https://twitter.com/pixelvault_/status/1560051721761701889" %}
 

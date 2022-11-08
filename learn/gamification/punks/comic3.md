@@ -6,7 +6,7 @@ description: 'Everything you need to know about the gamified PUNKS Comic #3 mint
 
 [PUNKS Comic #3: A Glitch in Time](../../ecosystem/punks/punks-comic/#3) **** is special part of the Pixel Vault's history for many reasons:
 
-* from a storytelling perspective, it's the first time [MetaHero Identities](../../ecosystem/MHU/identities.md) appear in [PUNKS Comic](../../ecosystem/punks/punks-comic/)
+* from a storytelling perspective, it's the first time [Inhabitants Identities](../../ecosystem/MHU/identities.md) appear in [PUNKS Comic](../../ecosystem/punks/punks-comic/)
 * it's the last paid mint for the PUNKS Comic series, making it the final piece of the [Genesis PUNKS Comic Set (PUNKS Comic #1-#3).](../sets.md) Holders of this set are entitled to a free PUNKS PFP, which will become the access pass to PUNKS content & utility moving forward
 * and most significantly, it was a gamified **pack style drop,** which led to the redistribution of over 1600 Pixel Vault assets from PV, back to their community
 
@@ -14,7 +14,7 @@ description: 'Everything you need to know about the gamified PUNKS Comic #3 mint
 
 ## Pack Style Drop
 
-Typically, when you're minting an NFT, you have a general idea of what asset you'll receive, even though there can be an element of randomness in terms of the output. For example, when you burn your [MintPass #1](../../ecosystem/MHU/mintpass/1.md) for a [Generative MetaHero Identity](../../ecosystem/MHU/identities.md#generative-metahero-identities), you know you'll receive a Generative but it's traits are randomised. However, Pixel Vault gamified the experience of minting PUNKS Comic #3 by allowing minters a chance of receiving another Pixel Vault asset instead of a PUNKS Comic #3 standard edition.
+Typically, when you're minting an NFT, you have a general idea of what asset you'll receive, even though there can be an element of randomness in terms of the output. For example, when you burn your [MintPass #1](../../ecosystem/MHU/mintpass/1.md) for a [Generative Inhabitants Identity](../../ecosystem/MHU/identities.md#generative-metahero-identities), you know you'll receive a Generative but it's traits are randomised. However, Pixel Vault gamified the experience of minting PUNKS Comic #3 by allowing minters a chance of receiving another Pixel Vault asset instead of a PUNKS Comic #3 standard edition.
 
 **Here's how it worked:**
 
@@ -28,8 +28,8 @@ Typically, when you're minting an NFT, you have a general idea of what asset you
     * [PUNKS Comic #1](../../ecosystem/punks/punks-comic/#1) (130)
     * [Pixel Vault Founder's DAO](../../ecosystem/pvfd.md) (665)
     * [MintPass #1](../../ecosystem/MHU/mintpass/1.md) (350)
-    * [Generative MetaHero Identities](../../ecosystem/MHU/identities.md#generative-metahero-identities) (500)
-    * [Core MetaHero Identities](../../ecosystem/MHU/identities.md#core-metahero-identities) (12)&#x20;
+    * [Generative Inhabitants Identities](../../ecosystem/MHU/identities.md#generative-metahero-identities) (500)
+    * [Pixel Vault Core Identities](../../ecosystem/MHU/identities.md#core-metahero-identities) (12)&#x20;
 
 ## Outcome
 

@@ -16,7 +16,7 @@ Gas wars favour those with the most capital, so Pixel Vault [conceptualised](htt
 
 Pixel Vault MintPasses include:
 
-* [MintPass #1](1.md), the ticket to getting [MetaHero Identities](../identities.md)
+* [MintPass #1](1.md), the ticket to getting [Inhabitants Identities](../identities.md)
 * [MintPass #2](2.md), the ticket to getting [DOTs](../DOTs.md)
 
 There were provided for free or at a low cost to existing holders of PV assets, as a reward for their support.
