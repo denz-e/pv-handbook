@@ -93,9 +93,12 @@ _This list is intended to be a guide for you to act on, and prepare for ongoing/
 
 ### **2023**
 
-* **Release of new Inhabitants artwork:**&#x20;
-  * _"Holders will have the opportunity to swap and display their characters in a multitude of styles (non-dilutive)."_ [(source: From the Desk: An Open Letter to the Pixel Vault Community)](https://medium.com/@pixelvault/from-the-desk-an-open-letter-to-the-pixel-vault-community-6e46256a8f08)
-  * _"Chris Wahl drew your original Generative and Core Identities, and that art will remain available to collectors. The original Chris Wahl designs for Inhabitants Identities fall under the recently coined “PV Classics” category. The classic artwork will remain tied to your digital tokens when the new Inhabitants artwork releases in 2023. Generative and Core Identity digital tokens will default to the latest artwork on marketplaces; however, the PV Classics style will remain publicly viewable."_ [_(source:_ Welcome to the Inhabitants Universe)](https://medium.com/@inhabitantsuniverse/welcome-to-the-inhabitants-universe-7f6ecde61f6)
+*   **Release of new Inhabitants artwork:**&#x20;
+
+    * _"Holders will have the opportunity to swap and display their characters in a multitude of styles (non-dilutive)."_ [(source: From the Desk: An Open Letter to the Pixel Vault Community)](https://medium.com/@pixelvault/from-the-desk-an-open-letter-to-the-pixel-vault-community-6e46256a8f08)
+    * _"Chris Wahl drew your original Generative and Core Identities, and that art will remain available to collectors. The original Chris Wahl designs for Inhabitants Identities fall under the recently coined “PV Classics” category. The classic artwork will remain tied to your digital tokens when the new Inhabitants artwork releases in 2023. Generative and Core Identity digital tokens will default to the latest artwork on marketplaces; however, the PV Classics style will remain publicly viewable."_ [_(source:_ Welcome to the Inhabitants Universe)](https://medium.com/@inhabitantsuniverse/welcome-to-the-inhabitants-universe-7f6ecde61f6)
+
+    <figure><img src="../.gitbook/assets/sneak peek - Inhabitants" alt=""><figcaption><p>Sneak peek of new Inhabitants artwork</p></figcaption></figure>
 * **PUNKS blockchain games leveraging $PUNKS:** _"We have also begun the planning phase for the launch of PUNKS blockchain games (leveraging the $PUNKS token) in 2023."_ [(source: 10 Questions for GFunk)](https://medium.com/@pixelvault/10-questions-for-gfunk-d2a779a5971c)
 
 ****
