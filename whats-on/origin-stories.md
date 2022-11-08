@@ -5,14 +5,15 @@ description: Everything you need to know about the Origin Stories burn-to-claim 
 # 🟠 Origin Stories: Burn to Claim
 
 {% hint style="warning" %}
-**The burn-to-claim window for Origin Stories Issue 3 is open** for all holders of:
+**The burn-to-claim window for Origin Stories Issue 4 is open** for all holders of:
 
 * Origin Stories Issue 1
 * Origin Stories Issue 2
+* Origin Stories Issue 3
 
-If you want, you can burn your Issue 1 or 2 for Issue 3. The claim window is open until the release of Origin Stories Issue 4 (Date TBC)
+If you want, you can burn your Issue 1, 2 or 3 for Issue 4. The claim window is open until the release of Origin Stories Issue 5 (Date TBC)
 
-**Link:** [https://app.punkscomic.com/os3](https://app.punkscomic.com/os3)
+**Link:** [https://app.punkscomic.com/os4](https://app.punkscomic.com/os4)
 {% endhint %}
 
 **On this page, you'll find:**

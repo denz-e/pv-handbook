@@ -5,7 +5,7 @@
 * **Set 1:** Issues 1-8
 * **Set 2:** Issues 9-16
 
-<figure><img src="../../../.gitbook/assets/Origin Stories 1-3 (Covers)" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Origin Stories 1-4 (Covers)" alt=""><figcaption></figcaption></figure>
 
 ### **Set 1** <a href="#1" id="1"></a>
 
@@ -16,3 +16,4 @@
 * ****[**Origin Stories #1:  Mad Clown, Sad Town**](https://punkscomic.com/origin-stories.html) **** focuses on Courtney (Punk #2146), illustrated by [Chris Wahl](https://twitter.com/chriswahl73)
 * ****[**Origin Stories #2: Eye for an I**](https://punkscomic.com/origin-stories-2.html) **** focuses on The Skull (Punk #9973), illustrated by guest artist [Siya Oum](https://www.instagram.com/siya\_oum/)
 * ****[**Origin Stories #3: The Trouble with PUNKS**](https://app.punkscomic.com/os3) focuses on Agent Ivanova (Punk #2152)
+* ****[**Origin Stories #4: The Ultimate Degen**](https://app.punkscomic.com/os4) focuses on Cheetah (Punk #1068)

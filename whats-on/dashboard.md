@@ -20,7 +20,7 @@ _This list is intended to be a guide for you to act on, and prepare for ongoing/
 
 ### [Origin Stories: Burn to Claim](origin-stories.md)
 
-* **The burn-to-claim window for Origin Stories Issue 3 is open for all holders of Origin Stories #1 or #2.** If you want, you can burn your Issue 1 or 2 for Issue 3. The claim window is open until the release of Origin Stories Issue 4 (Date TBC)
+* **The burn-to-claim window for Origin Stories Issue 4 is open for all holders of Origin Stories Issues 1-3.** If you want, you can burn your Issue 1-3 for Issue 4. The claim window is open until the release of Origin Stories Issue 5 (Date TBC)
 
 
 
